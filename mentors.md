@@ -8,6 +8,7 @@
 * [Gonçalo Pestana](https://github.com/gpestana)
 * [Panu Korpela](https://github.com/napunapu)
 * [Liang Guo](https://github.com/xr)
+* [Tan Nguyen](https://github.com/laoshanlung)
 
 # 2015 Helsinki NodeSchool Hall of Mentors
 * [Lauri Svan](https://github.com/laurisvan)
